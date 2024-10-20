@@ -1,0 +1,661 @@
+human exam:
+**Converted Questions and Options:**
+
+---
+
+**Question 1:**
+If \( x = \sec y \), where \( y \in \left( \dfrac{\pi}{2}, \pi \right) \), then \( \dfrac{dx}{dy} = \) ...
+
+**Options:**
+A. \( -x \sqrt{x^{2} - 1} \)  
+B. \( x \sqrt{x^{2} - 1} \)  
+C. \( -x \sqrt{x^{2} + 1} \)  
+D. \( x \sqrt{x^{2} + 1} \)  
+
+---
+
+**Question 2:**
+Evaluate \( \displaystyle \lim_{x \to 1} \dfrac{e^{x} - e}{x - 1} = \) ...
+
+**Options:**
+A. \( e \)  
+B. \( -e \)  
+C. \( 1 \)  
+D. \( -1 \)  
+
+---
+
+**Question 3:**
+If \( \displaystyle \lim_{x \to 0} \dfrac{(\ln(x + 1))^{k}}{x} = 4 \), then \( k = \) ...
+
+**Options:**
+A. \( 16 \)  
+B. \( 4 \)  
+C. \( 8 \)  
+D. \( 2 \)  
+
+---
+
+**Question 4:**
+If \( f(x) = \int \dfrac{1 - (\ln x)^{2}}{x} \, dx \) with \( f(1) = 0 \), then \( f(e) = \) ...
+
+**Options:**
+A. \( \dfrac{2}{3} \)  
+B. \( -\dfrac{2}{3} \)  
+C. \( \dfrac{1}{3} \)  
+D. \( -\dfrac{1}{3} \)  
+
+---
+
+**Question 5:**
+If \( y = \sin(3x) \), then the differential of \( y \) is ...
+
+**Options:**
+A. \( 3 \cos(3x) \, dx \)  
+B. \( 3 \cos(x) \, dx \)  
+C. \( -3 \cos(3x) \, dx \)  
+D. \( -3 \cos(x) \, dx \)  
+
+---
+
+**Question 6:**
+Evaluate \( \displaystyle \int 9^{2x} \ln x \, dx = \) ... \( + \, C \), where \( C \) is a constant.
+
+**Options:**
+A. \( \dfrac{x^{3}}{2} (\ln x^{3} - 2) \)  
+B. \( \dfrac{x^{3}}{2} (\ln x - 2) \)  
+C. \( \dfrac{x^{3}}{2} (\ln x^{3} + 2) \)  
+D. \( \dfrac{x^{3}}{2} (\ln x + 2) \)  
+
+---
+
+**Question 7:**
+If the function \( f \) is twice differentiable on the interval \([-1, 1]\) where \( f'(x) \) is increasing on \((-1, 0)\) and \( f'(x) \) is decreasing on \((0, 1) \), then which statement must be true?
+
+**Options:**
+A. \( (0, f(0)) \) is an inflection point.  
+B. \( f(0) \) is a local maximum value.  
+C. The function \( f \) is increasing on \( (0, 1) \).  
+D. The function \( f \) is decreasing on \( (0, 1) \).  
+
+---
+
+**Question 8:**
+If \( f\left( \dfrac{1}{2} x \right) = |x|^{3} \), then \( f''(-1) = \) ...
+
+**Options:**
+A. \( 48 \)  
+B. \( 14 \)  
+C. \( 1 \)  
+D. \( -48 \)  
+
+---
+
+**Question 9:**
+Given \( y = f(x) \) where \( y = 3n^{2} + 7 \) and \( 6n^{2} x + n = 1 \), then the normal to the curve at the point with \( x \)-coordinate zero is ...
+
+**Options:**
+A. Parallel to the straight line \( y = x \)  
+B. Parallel to the \( X \)-axis  
+C. Parallel to the \( Y \)-axis  
+D. Parallel to the straight line \( y = -x \)  
+
+---
+
+**Question 10:**
+If \( y = e^{x} \sec x \), then \( \dfrac{dy}{dx} = \) ... at \( x = 0 \).
+
+**Options:**
+A. \( 1 \)  
+B. \( -1 \)  
+C. \( 2 \)  
+D. \( -2 \)  
+
+---
+
+**Question 11:**
+The function \( f: [-3, -1] \rightarrow \mathbb{R} \) where \( f(x) = x + \dfrac{a}{x} \). If the absolute maximum value of \( f \) equals \( -2 \) and \( f \) is increasing on the interval \((-3, -1)\), then \( a = \) ...
+
+**Options:**
+A. \( 1 \)  
+B. \( -1 \)  
+C. \( 2 \)  
+D. \( -2 \)  
+
+---
+
+**Question 12:**
+The slope of the tangent to the curve \( y = 5x \log_{5}(x + 1) \) at \( x = 0 \) equals ...
+
+**Options:**
+A. \( \log_{5} e \)  
+B. \( \ln 5 \)  
+C. \( 0 \)  
+D. \( 5 \log_{5} e \)  
+
+---
+
+**Question 13:**
+If \( y \times \log_{e}(x^{3}) = 1 \) where \( x > 1 \), then \( \dfrac{dy}{dx} = \) ... at \( x = 3 \).
+
+**Options:**
+A. \( 1 \)  
+B. \( 0 \)  
+C. \( 3 \ln 3 \)  
+D. \( \ln 3 \)  
+
+---
+
+**Question 14:**
+If \( a, b \in \left( 0, \dfrac{\pi}{2} \right) \), then \( \displaystyle \int_{a}^{b} \tan^{2} x \, dx + \int_{b}^{a} \sec^{2} x \, dx = \) ...
+
+**Options:**
+A. \( a - b \)  
+B. \( b - a \)  
+C. \( 1 \)  
+D. \( \tan b - \tan a \)  
+
+---
+
+**Question 15:**
+If \( y > 0 \), then the point on the curve \( y^{2} = 8x \) at which \( \dfrac{dy}{dx} = \dfrac{dx}{dy} \) is ...
+
+**Options:**
+A. \( (2, 4) \)  
+B. \( \left( \dfrac{1}{2}, 2 \right) \)  
+C. \( (1, 2\sqrt{2}) \)  
+D. \( (0, 0) \)  
+
+---
+
+**Question 16:**
+If \( y = a e^{b x} \) and \( \dfrac{d^{2} y}{dx^{2}} = y \), then \( b^{2} = \) ...
+
+**Options:**
+A. \( 1 \)  
+B. \( 0 \)  
+C. \( -1 \)  
+D. \( 2 \)  
+
+---
+
+**Question 17:**
+The maximum value of the function \( f(x) = \sin x + \cos x \) in the interval \( \left( 0, \dfrac{\pi}{2} \right) \) is ...
+
+**Options:**
+A. \( 2 \)  
+B. \( \dfrac{1}{2} \)  
+C. \( \sqrt{2} \)  
+D. \( 1 + \dfrac{\sqrt{3}}{2} \)  
+
+---
+
+**Question 18:**
+If \( \sin x \cos y = \dfrac{1}{2} \) where \( x \) and \( y \) are acute angles, then \( \dfrac{dy}{dx} = \) ... at \( x = \dfrac{\pi}{4} \).
+
+**Options:**
+A. \( 1 \)  
+B. \( -1 \)  
+C. \( 0 \)  
+D. \( \dfrac{1}{2} \)  
+
+---
+
+**Question 19:**
+If \( \dfrac{dz}{d\theta} = \cos^{2} \theta \), \( \dfrac{dy}{d\theta} = \sin^{2} \theta \), then \( \dfrac{d^{2} y}{dz^{2}} = \) ... at \( \theta = \dfrac{\pi}{8} \).
+
+**Options:**
+A. \( 4\sqrt{2} \)  
+B. \( 4 \)  
+C. \( 2\sqrt{2} \)  
+D. \( 2 \)  
+
+---
+
+**Question 20:**
+A candle is placed at 3 cm from a wooden block of height \( L \) cm, and the wooden block is at a distance 6 cm from a vertical wall. If the length of the candle (\( x \)) is decreasing at a rate of 3 cm/hr, then the rate of change of the length of the shadow of the block (\( y \)) on the wall is ... cm/hr.
+
+**Options:**
+A. \( 6 \)  
+B. \( -6 \)  
+C. \( -3 \)  
+D. \( 3 \)  
+
+---
+
+**Question 21:**
+A point \( A(x, y) \) is moving along the straight line \( y = -2x + 4 \) where \( 0 \leq x \leq 1 \). Point \( B \) is the projection of \( A \) onto the \( X \)-axis, and \( C(-2, 0) \). The smallest area of triangle \( \Delta ABC \) is ... square units.
+
+**Options:**
+A. \( 3 \)  
+B. \( 4 \)  
+C. \( 2 \)  
+D. \( 5 \)  
+
+---
+
+**Question 22:**
+If the equation of the tangent to the curve \( y = -\ln x \) at the point \( (a, b) \) which lies on the curve is \( y = m x \), then \( a = \) ...
+
+**Options:**
+A. \( e \)  
+B. \( \dfrac{3}{2} e \)  
+C. \( \dfrac{1}{2} e \)  
+D. \( 2 e \)  
+
+---
+
+**Question 23:**
+The curve \( e^{x} + y = 3x - 2 \) has a tangent at the point \( A(1, -1) \) intersecting the coordinate axes at points \( B \) and \( C \) respectively. Then \( A \) divides \( \overline{BC} \) in the ratio ...
+
+**Options:**
+A. \( 1 : 2 \) internally  
+B. \( 2 : 1 \) internally  
+C. \( 1 : 2 \) externally  
+D. \( 2 : 1 \) externally  
+
+---
+
+**Question 24:**
+The figure represents the curves of the functions \( g \) and \( k \) on the interval \([A, B]\). If \( f \) is a function where \( f(x) = (g \circ k)(x) \), then the correct statement is ...
+
+**Options:**
+A. The function \( f \) is decreasing on the interval \( (A, B) \).  
+B. The function \( f \) is increasing on the interval \( (A, B) \).  
+C. The function \( f \) is increasing on the interval \( (A, C) \) only.  
+D. The function \( f \) is decreasing on the interval \( (A, C) \) only.  
+
+---
+
+**Question 25:**
+In the interval \( (0, 1) \), the function \( g \) is twice differentiable and \( g''(x) < 0 \). If \( f \) is a function where \( f(x) = g(x) + g(1 - x) \), then the correct statement is ...
+
+**Options:**
+A. \( f \) is decreasing on \( \left( \dfrac{1}{2}, 1 \right) \).  
+B. \( f \) is decreasing on \( (0, 1) \).  
+C. \( f \) is increasing on \( (0, 1) \).  
+D. \( f \) is increasing on \( \left( \dfrac{1}{2}, 1 \right) \).  
+
+---
+
+
+
+Exam 1:
+
+**Calculus Exam with Multiple-Choice Options**
+
+1. If \( x = \cos y \) where \( y \in \left( 0, \dfrac{\pi}{2} \right) \), find \( \dfrac{dx}{dy} \).
+
+   A. \( -\sin y \)  
+   B. \( \sin y \)  
+   C. \( -\cos y \)  
+   D. \( \cos y \)  
+
+2. Evaluate the limit \( \displaystyle \lim_{x \to 0} \dfrac{e^{x} - 1}{x} \).
+
+   A. \( 0 \)  
+   B. \( 1 \)  
+   C. \( e \)  
+   D. \( -1 \)  
+
+3. If \( \displaystyle \lim_{x \to 0} \dfrac{\ln(1 + x^{k})}{x} = 5 \), find the value of \( k \).
+
+   A. \( 5 \)  
+   B. \( 1 \)  
+   C. \( \dfrac{1}{5} \)  
+   D. \( \dfrac{1}{2} \)  
+
+4. Compute the definite integral \( \displaystyle \int_{0}^{\ln 2} e^{2x} \, dx \).
+
+   A. \( \dfrac{1}{2} \)  
+   B. \( \dfrac{3}{4} \)  
+   C. \( \dfrac{1}{4} \)  
+   D. \( \dfrac{3}{2} \)  
+
+5. If \( y = \cos 2x \), find the differential \( dy \).
+
+   A. \( -2 \sin 2x \, dx \)  
+   B. \( 2 \sin 2x \, dx \)  
+   C. \( -\sin 2x \, dx \)  
+   D. \( \sin 2x \, dx \)  
+
+6. Evaluate the indefinite integral \( \displaystyle \int x e^{x} \, dx \).
+
+   A. \( x e^{x} - e^{x} + C \)  
+   B. \( x e^{x} + e^{x} + C \)  
+   C. \( e^{x} - x e^{x} + C \)  
+   D. \( x^{2} e^{x} + C \)  
+
+7. Suppose a function \( f \) is twice differentiable on the interval \( [0, 2] \) and \( f''(x) > 0 \) for all \( x \in (0, 2) \). Determine the concavity of \( f \) on \( (0, 2) \).
+
+   A. Concave up  
+   B. Concave down  
+   C. Linear  
+   D. Neither concave up nor concave down  
+
+8. If \( f(x) = x^{4} \), calculate \( f''(-1) \).
+
+   A. \( 0 \)  
+   B. \( 12 \)  
+   C. \( 24 \)  
+   D. \( 4 \)  
+
+9. Find the equation of the normal to the curve \( y = x^{3} + 3x^{2} + x \) at the point where \( x = 0 \).
+
+   A. \( y = x \)  
+   B. \( y = -x \)  
+   C. \( y = 2x \)  
+   D. \( y = -2x \)  
+
+10. If \( y = \ln(x) \cdot e^{x} \), find \( \dfrac{dy}{dx} \) when \( x = 1 \).
+
+    A. \( 0 \)  
+    B. \( 1 \)  
+    C. \( e \)  
+    D. \( -1 \)  
+
+11. Determine the absolute maximum value of the function \( f(x) = -x^{2} + 4x \) on the interval \( [0, 3] \).
+
+    A. \( 5 \)  
+    B. \( 4 \)  
+    C. \( 7 \)  
+    D. \( 9 \)  
+
+12. Find the slope of the tangent to the curve \( y = x \ln x \) at \( x = 1 \).
+
+    A. \( 0 \)  
+    B. \( 1 \)  
+    C. \( -1 \)  
+    D. \( \ln e \)  
+
+13. If \( y \cdot \ln x = 1 \) where \( x > 0 \), compute \( \dfrac{dy}{dx} \) at \( x = e \).
+
+    A. \( 0 \)  
+    B. \( 1 \)  
+    C. \( \dfrac{1}{e} \)  
+    D. \( -\dfrac{1}{e} \)  
+
+14. Evaluate \( \displaystyle \int_{a}^{b} \sec^{2} x \, dx + \int_{b}^{a} \tan^{2} x \, dx \) where \( a, b \in \left( 0, \dfrac{\pi}{2} \right) \).
+
+    A. \( 0 \)  
+    B. \( a - b \)  
+    C. \( b - a \)  
+    D. \( \tan b - \tan a \)  
+
+15. Find all points on the curve \( y^{2} = 4x \) where \( \dfrac{dy}{dx} = \dfrac{dx}{dy} \).
+
+    A. \( (1, 2) \)  
+    B. \( (2, 4) \)  
+    C. \( (4, 4) \)  
+    D. \( (0, 0) \)  
+
+16. Given \( y = a e^{b x} \) and \( \dfrac{d^{2} y}{dx^{2}} = y \), determine the value of \( b^{2} \).
+
+    A. \( 1 \)  
+    B. \( 0 \)  
+    C. \( -1 \)  
+    D. \( 2 \)  
+
+17. Find the maximum value of the function \( f(x) = \sin x + \cos x \) in the interval \( \left( 0, \dfrac{\pi}{2} \right) \).
+
+    A. \( \sqrt{2} \)  
+    B. \( 1 \)  
+    C. \( \dfrac{\sqrt{3}}{2} \)  
+    D. \( \dfrac{1}{\sqrt{2}} \)  
+
+18. If \( \sin x + \cos y = 1 \) where \( x \) and \( y \) are acute angles, calculate \( \dfrac{dy}{dx} \) at \( x = \dfrac{\pi}{4} \).
+
+    A. \( 0 \)  
+    B. \( 1 \)  
+    C. \( -1 \)  
+    D. \( \dfrac{1}{\sqrt{2}} \)  
+
+19. Given \( \dfrac{dz}{d\theta} = \sin^{2} \theta \) and \( \dfrac{dy}{d\theta} = \cos^{2} \theta \), find \( \dfrac{d^{2} y}{dz^{2}} \) at \( \theta = \dfrac{\pi}{4} \).
+
+    A. \( 2 \)  
+    B. \( 2\sqrt{2} \)  
+    C. \( 4 \)  
+    D. \( \sqrt{2} \)  
+
+20. A ladder 10 feet long rests against a vertical wall. The bottom of the ladder slides away from the wall at a rate of 2 ft/s. How fast is the top of the ladder sliding down the wall when the bottom is 6 feet from the wall?
+
+    A. \( -\dfrac{12}{5} \) ft/s  
+    B. \( -\dfrac{8}{5} \) ft/s  
+    C. \( \dfrac{12}{5} \) ft/s  
+    D. \( \dfrac{8}{5} \) ft/s  
+
+21. A rectangle is inscribed in a circle of radius 5 units. Determine the dimensions of the rectangle with the maximum possible area.
+
+    A. Width = \( 5 \) units, Height = \( 5 \) units  
+    B. Width = \( 5\sqrt{2} \) units, Height = \( 5\sqrt{2} \) units  
+    C. Width = \( 5 \) units, Height = \( 5 \) units  
+    D. Width = \( 10 \) units, Height = \( 0 \) units  
+
+22. Find the equation of the tangent to the curve \( y = \ln x \) at the point where \( x = e \).
+
+    A. \( y = x - e \)  
+    B. \( y = x + e \)  
+    C. \( y = \dfrac{1}{e} x - 1 \)  
+    D. \( y = \dfrac{1}{e} x + 1 \)  
+
+23. The curve \( y = e^{x} + x \) has a tangent at \( x = 0 \) that intersects the axes at points \( A \) and \( B \). Find the ratio in which point \( A \) divides the segment \( OB \), where \( O \) is the origin.
+
+    A. \( 1:2 \) internally  
+    B. \( 2:1 \) internally  
+    C. \( 1:2 \) externally  
+    D. \( 2:1 \) externally  
+
+24. Given functions \( g \) and \( k \) where \( g \) is decreasing and \( k \) is increasing on the interval \( [a, b] \), and \( f(x) = g(k(x)) \), determine whether \( f \) is increasing or decreasing on \( [a, b] \).
+
+    A. \( f \) is increasing on \( [a, b] \)  
+    B. \( f \) is decreasing on \( [a, b] \)  
+    C. \( f \) is constant on \( [a, b] \)  
+    D. Cannot be determined  
+
+25. Let \( g \) be twice differentiable on \( (0, 1) \) with \( g''(x) > 0 \) for all \( x \in (0, 1) \). Define \( f(x) = g(x) + g(1 - x) \). Decide whether \( f \) is increasing or decreasing on \( \left( 0, \dfrac{1}{2} \right) \).
+
+    A. \( f \) is increasing on \( \left( 0, \dfrac{1}{2} \right) \)  
+    B. \( f \) is decreasing on \( \left( 0, \dfrac{1}{2} \right) \)  
+    C. \( f \) is constant on \( \left( 0, \dfrac{1}{2} \right) \)  
+    D. Cannot be determined  
+
+**Note:** Choose the correct option for each question without any external assistance.
+
+
+EXAM 2:
+
+1. **Differentiation**:
+- If f(x) = ln(x^2 + 1), then the second derivative f''(x) is...
+- A) (2 - 2x^2)/(x^2 + 1)^2 [Correct]
+- B) (2x^2 - 2)/(x^2 + 1)^2
+- C) (2x)/(x^2 + 1)
+- D) (2x^2 + 2)/(x^2 + 1)^2
+
+2. **Limits**:
+- Evaluate the limit: lim x→0 (sin(2x)/x) = ...
+- A) 2 [Correct]
+- B) 1
+- C) 0
+- D) ∞
+
+3. **Differentiation**:
+- If y = tan^(-1)(x^2), find dy/dx when x = 1.
+- A) 1 [Correct]
+- B) 2
+- C) 1/2
+- D) 0
+
+4. **Integration**:
+- Evaluate the integral: ∫ (0 to π/2) sin^3(x) cos^2(x) dx.
+- A) 1/12 [Correct]
+- B) 1/6
+- C) 1/8
+- D) 1/10
+
+5. **Differentiation**:
+- If f(x) = e^(3x) and g(x) = ln(x), find (f ∘ g)'(x).
+- A) 3x [Correct]
+- B) 3/x
+- C) 3x^2
+- D) e^(3x)/x
+
+6. **Differentiation**:
+- If y = x^x, find dy/dx.
+- A) x^x(ln(x) + 1) [Correct]
+- B) x^x ln(x)
+- C) x^(x-1)
+- D) ln(x) + 1
+
+7. **Differentiation**:
+- If the function f is continuous on [0, 2] and differentiable on (0, 2), and f(0) = 1, f(2) = 3, find f'(c) for some c in (0, 2).
+- A) 1 [Correct]
+- B) 2
+- C) 0
+- D) 3
+
+8. **Differentiation**:
+- If y = ln(sec(x)), find dy/dx.
+- A) tan(x) [Correct]
+- B) sec(x)
+- C) 1/cos(x)
+- D) sin(x)
+
+9. **Integration**:
+- Solve for x: ∫ (1 to x) (1/t) dt = 2.
+- A) e^2 [Correct]
+- B) 2
+- C) e
+- D) 1/e^2
+
+10. **Functions**:
+- If the function g(x) = x^3 - 3x + 2 has a local maximum at x = a, find the value of a.
+- A) -1 [Correct]
+- B) 1
+- C) 0
+- D) 2
+
+11. **Differentiation**:
+- If f(x) = x^2 + 2x + 1, find the inverse function f^(-1)(x).
+- A) √x - 1 [Correct]
+- B) -√x - 1
+- C) x - 1
+- D) x^2 - 1
+
+12. **Differentiation**:
+- If y = cos(x) + sin(x), find the maximum value of y on the interval [0, π].
+- A) √2 [Correct]
+- B) 1
+- C) 2
+- D) √3
+
+13. **Integration**:
+- Determine the area enclosed by the curves y = x^2 and y = 2x.
+- A) 4/3 [Correct]
+- B) 2
+- C) 8/3
+- D) 1
+
+14. **Differentiation**:
+- If y = x^2 + 1/x, find the asymptotes of the curve.
+- A) Vertical asymptote at x = 0 [Correct]
+- B) Horizontal asymptote at y = 0
+- C) Oblique asymptote at y = x
+- D) No asymptotes
+
+15. **Hard Question - Functions**:
+- If f(x) = x^4 - 4x^3 + 6x^2 - 4x + 1, find the critical points and determine their nature.
+- A) x = 1, point of inflection [Correct]
+- B) x = 1, local minimum
+- C) x = 1, local maximum
+- D) No critical points
+
+16. **Limits**:
+- Evaluate the limit: lim x→∞ (x^2 - 3x + 2)/(2x^2 + 5).
+- A) 1/2 [Correct]
+- B) 1
+- C) 0
+- D) ∞
+
+17. **Differentiation**:
+- Determine the Taylor series expansion of f(x) = e^x centered at x = 0 up to the fourth degree.
+- A) 1 + x + x^2/2 + x^3/6 + x^4/24 [Correct]
+- B) 1 + x + x^2/2 + x^3/3 + x^4/4
+- C) 1 + x + x^2 + x^3 + x^4
+- D) 1 + x^2/2 + x^3/6 + x^4/24
+
+18. **Differentiation**:
+- If f(x) = sin(x) and g(x) = cos(x), find the points where f(x) = g(x) on the interval [0, 2π].
+- A) π/4, 5π/4 [Correct]
+- B) π/4, 3π/4
+- C) π/2, 3π/2
+- D) 0, π
+
+19. **Functions**:
+- If f(x) = |x - 1|, find the derivative f'(x) at x = 1.
+- A) Does not exist [Correct]
+- B) 0
+- C) 1
+- D) -1
+
+20. **Differential Equations**:
+- Solve the initial value problem: dy/dx = 3y, y(0) = 2.
+- A) y = 2e^(3x) [Correct]
+- B) y = 3e^(2x)
+- C) y = 2e^(x)
+- D) y = e^(3x)
+
+21. **Geometry**:
+- If the function h(x) = x^5 - 5x^3 + 4x has an inflection point at x = b, find b.
+- A) √3/2 [Correct]
+- B) 0
+- C) 1
+- D) √2/3
+
+22. **Geometry**:
+- Evaluate the integral: ∫ (0 to 1) e^(-x^2) dx.
+- A) 0.7468 [Correct]
+- B) 0.5
+- C) 1
+- D) 0.25
+
+
+Exam 3:
+
+1. **Question**: If \( y = \arccos\left(\frac{2x}{\sqrt{1 + 4x^2}}\right) \), where \( x > 0 \), find \( \frac{dy}{dx} \). Simplify your answer.  
+   **Option A**: \(-\frac{2}{1 + 4x^2}\)  
+   **Option B**: \(-\frac{2}{\sqrt{1 + 4x^2}}\)  
+   **Option C**: \(\frac{2}{1 + 4x^2}\)  
+   **Option D**: \(\frac{2}{\sqrt{1 + 4x^2}}\)  
+
+2. **Question**: If \( x^2 + y^2 = e^{xy} \), find \( \frac{dy}{dx} \) at the point \( (0, 1) \). Hint: Use implicit differentiation.  
+   **Option A**: \(-\frac{1}{2}\)  
+   **Option B**: 0  
+   **Option C**: \(\frac{1}{2}\)  
+   **Option D**: 1  
+
+3. **Question**: Evaluate using L'Hôpital's rule:  
+   \[ \lim_{x \to 0} \frac{e^{\sin x} - e^x}{x^3} \]  
+   **Option A**: \(-\frac{1}{6}\)  
+   **Option B**: \(-\frac{1}{3}\)  
+   **Option C**: \(\frac{1}{6}\)  
+   **Option D**: The limit does not exist  
+
+4. **Question**: For the function \( f(x) = x^4 - 4x^3 + 4x^2 - 1 \) on the interval \( [0, 3] \), determine:  
+   a) The number of critical points  
+   b) The nature of each critical point (local maximum, local minimum, or inflection point)  
+   **Option A**: 2 critical points; local minimum, local maximum  
+   **Option B**: 2 critical points; local maximum, local minimum  
+   **Option C**: 3 critical points; local minimum, inflection point, local maximum  
+   **Option D**: 3 critical points; local maximum, inflection point, local minimum  
+
+5. **Question**: Assume \( f(x) \) is a continuous function. If \( f'(x) > 0 \) for \( x < 2 \) and \( f'(x) < 0 \) for \( x > 2 \), which statement must be true?  
+   **Option A**: \( f(x) \) has a local minimum at \( x = 2 \)  
+   **Option B**: \( f(x) \) has a local maximum at \( x = 2 \)  
+   **Option C**: \( f(x) \) has an inflection point at \( x = 2 \)  
+   **Option D**: Not enough information to determine  
+
+6. **Question**: A manufacturer determines that the profit \( P \) (in thousands of dollars) from producing and selling \( x \) units of a product is given by \( P(x) = -0.01x^2 + 4x - 100 \). How many units should be produced to maximize profit?  
+   **Option A**: 100  
+   **Option B**: 150  
+   **Option C**: 200  
+   **Option D**: 250 
